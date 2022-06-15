@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekotha
 - 👀 I’m interested in health informatics, neuroscience and apps. 
 - 🌱 I’m currently learning about EHRs, medical records etc. 
-- 📫 How to reach me: Twitter is the quickest way.  
+- 📫 How to reach me: say hi on Twitter! (@eashankotha) 
 
 <!---
 ekotha/ekotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
