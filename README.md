@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ekotha
 - 👀 I’m interested in health informatics, neuroscience and apps. 
 - 🌱 I’m currently learning about EHRs, medical records etc. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter is the quickest way.  
 
 <!---
