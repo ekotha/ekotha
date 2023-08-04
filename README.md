@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekotha
 - 👀 I’m interested in  neuroscience and tech. 
 - 🌱 I’m currently working on full stack development.
-- 📫 How to reach me: say hi on Twitter! (@eashankotha) 
+- 📫 How to reach me: say hi on Twitter/X! (@eashankotha) 
 
 <!---
 ekotha/ekotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
