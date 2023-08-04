@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekotha
-- 👀 I’m interested in health informatics, neuroscience and apps. 
-- 🌱 I’m currently learning about EHRs, medical records etc. 
+- 👀 I’m interested in  neuroscience and tech. 
+- 🌱 I’m currently working on full stack development.
 - 📫 How to reach me: say hi on Twitter! (@eashankotha) 
 
 <!---
