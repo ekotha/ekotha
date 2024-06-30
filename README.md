@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekotha
 - 👀 I’m interested in  neuroscience and tech. 
-- 🌱 I’m currently working on full stack development.
+- 🌱 I’m currently working on full stack development and data analysis projects.
 - 📫 How to reach me: say hi on Twitter/X! (@eashankotha) 
 
 <!---
