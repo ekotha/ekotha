@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekotha 
-- 🌱 Full stack software engineer with an interest in Data Analytics and Visualization
+- 🌱 Data, Engineering and Storytelling
 
 <!---
 ekotha/ekotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
